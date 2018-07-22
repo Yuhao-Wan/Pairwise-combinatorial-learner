@@ -1,5 +1,6 @@
 # Implementation for 
 # Comparator-learning Combinatorial Functions (JMLR, 2016)
+# @author: Yuhao Wan
 
 import numpy as np
 import pandas as pd
